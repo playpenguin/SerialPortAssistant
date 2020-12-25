@@ -1,0 +1,3 @@
+[submodule "RabbitCommon"]
+	path = RabbitCommon
+	url = https://github.com/KangLin/RabbitCommon.git
